@@ -8,7 +8,7 @@ REGOLE
 */
 
 /* ESERCIZIO 1
-    Dato il seguente array, scrivi del codice per stampare ogni elemento dell'array in console.
+    Dato il seguente array, scrivi del codice per stampare ogni elemento dell'array in consoleE.
 */
 const pets = ['dog', 'cat', 'hamster', 'redfish']
 
